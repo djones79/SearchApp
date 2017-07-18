@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!-- CustomTypeface -->
+  <declare-styleable name="CustomTypeface">
+
+    <attr format="enum" name="textTypeface">
+
+      <enum name="KrinkesDecor" value="0x11"/>
+
+      <enum name="KrinkesRegular" value="0x12"/>
+
+      <enum name="VertigoBold" value="0x13"/>
+
+      <enum name="VertigoRegular" value="0x14"/>
+
+    </attr>
+
+    <attr format="enum" name="textTypefaceSelected">
+
+      <enum name="KrinkesDecor" value="0x11"/>
+
+      <enum name="KrinkesRegular" value="0x12"/>
+
+      <enum name="VertigoBold" value="0x13"/>
+
+      <enum name="VertigoRegular" value="0x14"/>
+
+    </attr>
+
+  </declare-styleable>
+
+</resources>

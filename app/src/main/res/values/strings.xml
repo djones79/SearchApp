@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Search-o-Matic</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="enter_search_term">Enter Search Term</string>
+    <string name="search">SEARCH</string>
+    <string name="title_activity_details">Article Details</string>
+    <string name="word_count">Word Count: %1$s</string>
+    <string name="pub_date">Published: %1$s</string>
+    <string name="compose_message">Compose Message</string>
+    <string name="recipient">Recipient</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send_email">SEND EMAIL</string>
+
+    <!-- Font Paths -->
+    <string name="font_path_krinkes_decor">fonts/krinkes_decor.ttf</string>
+    <string name="font_path_vertigo_regular">fonts/vertigo_regular.ttf</string>
+
+    <!--Error Messages -->
+    <string name="search_error">You must enter a search term.</string>
+    <string name="failed_to_download">Failed to download articles!</string>
+    <string name="no_network_connection">No Network Connection!</string>
+    <string name="email_required">Email Required</string>
+    <string name="subject_required">Subject Required</string>
+    <string name="message_required">Message Required</string>
+    <string name="no_email_client">No email client installed.</string>
+    <string name="no_font">Could not find fon in resources: </string>
+    <string name="error_reading_font">Error reading font: </string>
+
+    <!-- Dialog Action -->
+    <string name="open_settings">Open Settings</string>
+
+    <!-- Article Link -->
+    <string name="link">Link: %1$s %2$s</string>
+    <string name="send_message">Send mail…</string>
+
+    <!-- Identifier Ids -->
+    <string name="search_src_text">android:id/search_src_text</string>
+
+    <!-- Success Message -->
+    <string name="loaded_font">Successfully loaded font.</string>
+
+</resources>
